@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petersimiyu" alt="petersimiyu" /></a> </p> -->
 
-- 🌱 I’m currently learning **Software Engineering at ALX && Holberton School**
+- 🌱 I’m a full-stack **Software Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
